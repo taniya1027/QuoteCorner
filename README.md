@@ -16,3 +16,6 @@ login page
 
 <img width="910" alt="login" src="https://user-images.githubusercontent.com/70065103/121218987-e22f3800-c8a0-11eb-8001-cc68f1bc22b3.png">
 
+Quote Page
+
+<img width="884" alt="QuotePagepng" src="https://user-images.githubusercontent.com/70065103/121219212-14d93080-c8a1-11eb-982c-882b964633e0.png">
